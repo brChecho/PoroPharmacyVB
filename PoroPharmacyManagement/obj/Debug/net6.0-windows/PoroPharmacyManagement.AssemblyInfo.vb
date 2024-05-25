@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("PoroPharmacyManagement"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17bcbe63fa7047df8f7397b24440776145b0c63c"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ca00d337a12af2433b0d79b41d39bdbe807bdf1"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("PoroPharmacyManagement"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("PoroPharmacyManagement"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
